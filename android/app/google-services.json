@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70002321502",
+    "project_id": "munevver-39d6a",
+    "storage_bucket": "munevver-39d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70002321502:android:e45640fc1dcca06ec46ccf",
+        "android_client_info": {
+          "package_name": "com.example.munevver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauYGI7XENwHfiijUN8pGpWkPezHeEEo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
